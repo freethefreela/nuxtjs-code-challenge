@@ -1,4 +1,4 @@
-# NuxtJS Senior Developer Challenge
+# NuxtJS Developer Challenge
 
 ## Introduction
 
